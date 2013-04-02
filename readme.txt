@@ -7,7 +7,9 @@ ABOUT
 
 This is a very minimal MODX Revolution template, with this template you can quickly install to start using the fantastic Foundation 4 framework.
 
-For comments and suggestions please see the Github page: https://github.com/DESIGNfromWITHIN/Foundation4-MODX or get in touch on Twitter: @MennoPP
+This template is created by Menno Pietersen (blog: http://designfromwithin.com, company: http://anyscreensize.com)
+
+For comments and suggestions please see the Github page: https://github.com/DESIGNfromWITHIN/Foundation4-MODX or get in touch on Twitter: @MennoPP https://twitter.com/MennoPP
 
 -----------------------------
 REQUIREMENTS
