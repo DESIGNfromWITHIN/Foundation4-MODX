@@ -1,0 +1,5 @@
+Changelog for Foundation4-MODX
+
+Foundation4-MODX-1.0.0 (2 April 2013)
+====================================
+- Updated version to foundation-4.0.9
